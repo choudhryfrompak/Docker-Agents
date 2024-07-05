@@ -12,7 +12,7 @@ and
 OR if you want to recreate the setup i have shown in the video, then you can clone this repository  
 
 Run:  
-`git clone github.com/choudhryfrompak/docker-agents.git`  
+`git clone https://github.com/choudhryfrompak/Docker-Agents.git`  
 
 Then change you directory to docker-agents folder and run the following commands there:  
 `docker build -t <name of the image> .`  
